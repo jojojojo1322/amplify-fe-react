@@ -26,7 +26,7 @@ const App = () => {
             <Container>
               <Navbar.Brand>
                 <Link to={"/create-student"} className="nav-link">
-                  AWS Amplify FE
+                  AWS Amplify FE DEV TEST
                 </Link>
               </Navbar.Brand>
 
