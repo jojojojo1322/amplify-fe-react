@@ -30,7 +30,7 @@ const CreateStudent = () => {
       onSubmit={onSubmit}
       enableReinitialize
     >
-      Create Student
+      Create Member
     </StudentForm>
   );
 };
